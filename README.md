@@ -33,6 +33,7 @@ We will create a new sheet with a pivot table to analyze the outcomes of campaig
 A new sheet will be created to perform an analysis of crowdfunding goals. We will create a table and a corresponding graph to show the percentage of successful, failed, and canceled projects based on their funding goals.
 
 11. Statistical Analysis
+\
 We will create a new worksheet and calculate summary statistics for the number of backers of successful and unsuccessful campaigns. The mean, median, minimum, maximum, variance, and standard deviation will be computed and analyzed.
 
 Final Report
